@@ -1,24 +1,5 @@
-# ncov
+# ncov 
 
-## Project setup
-```
-npm install
-```
+此项目纯属练习技术，纯属娱乐，不参与任何商业活动
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+数据来源 https://lab.isaaclin.cn/nCoV/
